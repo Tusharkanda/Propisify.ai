@@ -1,4 +1,4 @@
-# AI Proposal Writer - Hackathon Demo
+# AI Proposal Writer -  Demo
 
 ## Overview
 This project is an AI-powered proposal generation tool built for hackathons and rapid prototyping. It uses OCR, vector search, and the OpenAI API to help you upload, search, and generate business proposals quickly.
