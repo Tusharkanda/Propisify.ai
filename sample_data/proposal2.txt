@@ -1,0 +1,11 @@
+Executive Summary
+MediHealth aims to enhance patient data analytics.
+
+Scope of Work
+- Integrate EHR systems
+
+Pricing
+Flexible pricing.
+Industry: Healthcare
+Service Type: Data Analytics
+Client: MediHealth

@@ -1,0 +1,49 @@
+Executive Summary
+FinServe is expanding its digital banking platform to better serve its growing customer base. Our software development team will deliver a secure, user-friendly mobile banking solution, leveraging industry best practices and robust security protocols. This proposal follows a standardized template for clarity and consistency.
+
+Scope of Work
+Phase 1: Requirements & Planning (Weeks 1-2)
+- Stakeholder interviews and requirements gathering
+- Technical assessment and architecture planning
+- Deliverable: Requirements Specification Document
+
+Phase 2: Mobile App Development (Weeks 3-10)
+- UI/UX design and prototyping
+- Core banking feature development (account management, transfers, bill pay)
+- Integration with existing backend systems
+- Deliverable: Beta version of mobile app
+
+Phase 3: Security Testing & Compliance (Weeks 11-12)
+- Penetration testing and vulnerability assessment
+- Compliance checks (PCI DSS, GDPR)
+- Deliverable: Security & Compliance Report
+
+Phase 4: User Acceptance & Launch (Weeks 13-14)
+- User acceptance testing (UAT)
+- Bug fixes and final optimizations
+- App store deployment and go-live support
+- Deliverable: Production-ready mobile app
+
+Pricing
+Our pricing is structured for clarity and value, with fixed fees for each phase and optional support packages.
+
+| Service Component                | Pricing Model         | Fee (USD)   | Description                                                      |
+|----------------------------------|----------------------|-------------|------------------------------------------------------------------|
+| Phase 1: Requirements & Planning | Fixed Price          | $6,000      | 2 weeks, includes all planning and documentation                 |
+| Phase 2: Mobile App Development  | Fixed Price          | $32,000     | 8 weeks, includes design, development, and integration           |
+| Phase 3: Security Testing        | Fixed Price          | $7,000      | 2 weeks, includes all security and compliance activities         |
+| Phase 4: UAT & Launch            | Fixed Price          | $5,000      | 2 weeks, includes UAT, deployment, and go-live support           |
+| Post-launch Support (optional)   | Time & Materials     | $120/hr     | As needed, billed monthly, for ongoing maintenance               |
+| Project Management & Oversight   | Included             | -           | Throughout all phases                                            |
+| Travel & Expenses                | Reimbursable         | At cost     | All pre-approved, out-of-pocket expenses                         |
+
+Estimated Total (Phases 1-4): $50,000 (excluding optional support and expenses)
+
+Timeline
+- Total project duration: 14 weeks (3.5 months)
+- Key milestones at the end of each phase
+- Weekly progress updates and review meetings
+
+Industry: Finance
+Service Type: Software Development
+Client: FinServe

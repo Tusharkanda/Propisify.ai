@@ -1,0 +1,43 @@
+Executive Summary
+[Client Name] is seeking to [project goal/initiative]. Our [service type] team will deliver a [solution/approach] tailored to [client/industry] needs. This proposal follows a standardized template for clarity and consistency.
+
+Scope of Work
+Phase 1: [Phase Name] (Weeks X-Y)
+- [Key activities/deliverables]
+- Deliverable: [Deliverable Name]
+
+Phase 2: [Phase Name] (Weeks X-Y)
+- [Key activities/deliverables]
+- Deliverable: [Deliverable Name]
+
+Phase 3: [Phase Name] (Weeks X-Y)
+- [Key activities/deliverables]
+- Deliverable: [Deliverable Name]
+
+Phase 4: [Phase Name] (Weeks X-Y)
+- [Key activities/deliverables]
+- Deliverable: [Deliverable Name]
+
+Pricing
+Our pricing is phase-based, with fixed fees and optional support.
+
+| Service Component                | Pricing Model         | Fee (USD)   | Description                                                      |
+|----------------------------------|----------------------|-------------|------------------------------------------------------------------|
+| Phase 1: [Phase Name]            | Fixed Price          | $X,000      | X weeks, includes [description]                                  |
+| Phase 2: [Phase Name]            | Fixed Price          | $X,000      | X weeks, includes [description]                                  |
+| Phase 3: [Phase Name]            | Fixed Price          | $X,000      | X weeks, includes [description]                                  |
+| Phase 4: [Phase Name]            | Fixed Price          | $X,000      | X weeks, includes [description]                                  |
+| Post-project Support (optional)  | Time & Materials     | $X/hr       | As needed, billed monthly, for ongoing support                   |
+| Project Management & Oversight   | Included             | -           | Throughout all phases                                            |
+| Travel & Expenses                | Reimbursable         | At cost     | All pre-approved, out-of-pocket expenses                         |
+
+Estimated Total (Phases 1-4): $XX,000 (excluding optional support and expenses)
+
+Timeline
+- Total project duration: X weeks (X months)
+- Key milestones at the end of each phase
+- Weekly progress updates and review meetings
+
+Industry: [Industry]
+Service Type: [Service Type]
+Client: [Client Name]

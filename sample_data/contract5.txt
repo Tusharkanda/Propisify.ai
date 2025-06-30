@@ -1,0 +1,41 @@
+Parties
+EduSmart Technologies ("EduSmart") and LearnOnline Inc. ("LearnOnline") (collectively, the "Parties") enter into this Agreement as of October 1, 2025.
+
+1. Term
+This Agreement commences on October 1, 2025 and continues until September 30, 2026 unless terminated earlier as provided herein.
+
+2. Scope of Work / Services
+EduSmart will develop and deploy a custom online learning platform for LearnOnline, including analytics and personalization features.
+
+3. Payment Terms
+LearnOnline will pay EduSmart $100,000, payable in four equal installments of $25,000 each, due at the completion of each project milestone.
+
+4. Confidentiality
+Both Parties agree to maintain the confidentiality of all educational content and business information disclosed during the term of this Agreement and for two years thereafter.
+
+5. Intellectual Property
+All software and content developed under this Agreement shall be owned by LearnOnline, except for EduSmart's pre-existing tools.
+
+6. Warranties and Representations
+Each Party represents and warrants that it has the authority to enter into this Agreement and will comply with all applicable education laws.
+
+7. Limitation of Liability
+Neither Party shall be liable for indirect, incidental, or consequential damages. EduSmart's total liability shall not exceed the total fees paid.
+
+8. Termination
+This Agreement may be terminated by either Party upon 30 days' written notice or for material breach not cured within 10 days.
+
+9. Dispute Resolution
+Any disputes shall be resolved by arbitration in Austin, TX.
+
+10. Governing Law
+This Agreement shall be governed by the laws of the State of Texas.
+
+11. Miscellaneous
+This Agreement constitutes the entire understanding between the Parties. Amendments must be in writing and signed by both Parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+EduSmart Technologies _______________________
+LearnOnline Inc. _______________________
+October 1, 2025

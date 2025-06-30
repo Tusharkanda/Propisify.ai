@@ -1,0 +1,41 @@
+Executive Summary
+ManuWorks is automating its production line to increase efficiency and reduce costs. Our consulting and software solutions will deliver measurable improvements through a structured, phased approach. This proposal follows a standardized template for clarity and consistency.
+
+Scope of Work
+Phase 1: Process Analysis (Weeks 1-2)
+- Analyze current production processes
+- Identify automation opportunities
+- Deliverable: Process Analysis Report
+
+Phase 2: Automation Deployment (Weeks 3-6)
+- Deploy automation software
+- Integrate with existing systems
+- Deliverable: Automated Production Module
+
+Phase 3: Training & Optimization (Weeks 7-8)
+- Staff training
+- Performance optimization
+- Deliverable: Training Materials & Optimization Report
+
+Pricing
+Our pricing is phase-based, with fixed fees and optional support.
+
+| Service Component                | Pricing Model         | Fee (USD)   | Description                                                      |
+|----------------------------------|----------------------|-------------|------------------------------------------------------------------|
+| Phase 1: Process Analysis        | Fixed Price          | $6,000      | 2 weeks, includes analysis and reporting                         |
+| Phase 2: Automation Deployment   | Fixed Price          | $18,000     | 4 weeks, includes deployment and integration                     |
+| Phase 3: Training & Optimization | Fixed Price          | $5,000      | 2 weeks, includes training and optimization                      |
+| Post-project Support (optional)  | Time & Materials     | $110/hr     | As needed, billed monthly, for ongoing support                   |
+| Project Management & Oversight   | Included             | -           | Throughout all phases                                            |
+| Travel & Expenses                | Reimbursable         | At cost     | All pre-approved, out-of-pocket expenses                         |
+
+Estimated Total (Phases 1-3): $29,000 (excluding optional support and expenses)
+
+Timeline
+- Total project duration: 8 weeks (2 months)
+- Key milestones at the end of each phase
+- Weekly progress updates and review meetings
+
+Industry: Manufacturing
+Service Type: Consulting
+Client: ManuWorks

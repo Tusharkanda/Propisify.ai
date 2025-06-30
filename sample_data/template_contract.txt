@@ -1,0 +1,56 @@
+Parties
+[Party A Name], with its principal place of business at [Party A Address] ("Party A"), and [Party B Name], with its principal place of business at [Party B Address] ("Party B").
+
+Recitals
+This Contract is entered into for the purpose of [Project/Service Description].
+
+1. Definitions
+[Define key terms used in the contract.]
+
+2. Term
+This Contract shall commence on [Start Date] and continue until [End Date], unless terminated earlier in accordance with this Contract.
+
+3. Scope of Work / Services
+Party B shall provide the following services to Party A:
+- [List of services/deliverables]
+
+4. Payment Terms
+- Fees: [Describe payment structure, amounts, and schedule]
+- Invoicing: [Describe invoicing process]
+- Late Payment: [Describe late payment penalties]
+
+5. Confidentiality
+Both parties agree to maintain the confidentiality of all proprietary information disclosed during the term of this Contract.
+
+6. Intellectual Property
+- Ownership: [Describe IP ownership, e.g., "All deliverables shall be the property of Party A."]
+- License: [Describe any licenses granted]
+
+7. Warranties and Representations
+Each party represents and warrants that it has the authority to enter into this Contract and will comply with all applicable laws.
+
+8. Indemnification
+Each party shall indemnify and hold harmless the other party from any claims, damages, or liabilities arising from its breach of this Contract.
+
+9. Limitation of Liability
+Neither party shall be liable for indirect, incidental, or consequential damages.
+
+10. Termination
+This Contract may be terminated by either party upon [number] days' written notice, or immediately for cause.
+
+11. Dispute Resolution
+Any disputes arising under this Contract shall be resolved by [mediation/arbitration/court jurisdiction].
+
+12. Governing Law
+This Contract shall be governed by the laws of [Jurisdiction].
+
+13. Miscellaneous
+- Entire Agreement: This Contract constitutes the entire agreement between the parties.
+- Amendments: Any amendments must be in writing and signed by both parties.
+- Notices: All notices shall be sent to the addresses listed above.
+
+IN WITNESS WHEREOF, the parties have executed this Contract as of the date first written above.
+
+Party A: _______________________
+Party B: _______________________
+Date: _________________________

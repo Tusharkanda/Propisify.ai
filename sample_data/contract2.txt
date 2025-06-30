@@ -1,0 +1,41 @@
+Parties
+MediHealth, Inc. ("MediHealth") and DataCare Solutions LLC ("DataCare") (collectively, the "Parties") enter into this Agreement as of July 1, 2025.
+
+1. Term
+This Agreement commences on July 1, 2025 and continues until June 30, 2026 unless terminated earlier as provided herein.
+
+2. Scope of Work / Services
+DataCare will provide a cloud-based analytics SaaS platform and related support services to MediHealth, as described in Exhibit A.
+
+3. Payment Terms
+MediHealth will pay DataCare $5,000 per month, invoiced at the start of each month. Additional services will be billed at $150/hour.
+
+4. Confidentiality
+Both Parties agree to maintain the confidentiality of all patient and business data disclosed during the term of this Agreement and for three years thereafter.
+
+5. Intellectual Property
+All intellectual property developed under this Agreement shall be owned by DataCare, except for MediHealth's pre-existing data.
+
+6. Warranties and Representations
+Each Party represents and warrants that it has the authority to enter into this Agreement and will comply with all applicable healthcare laws and regulations.
+
+7. Limitation of Liability
+Neither Party shall be liable for indirect, incidental, or consequential damages. DataCare's total liability shall not exceed the total fees paid in the preceding 12 months.
+
+8. Termination
+This Agreement may be terminated by either Party upon 60 days' written notice or for material breach not cured within 30 days.
+
+9. Dispute Resolution
+Any disputes shall be resolved by binding arbitration in Chicago, IL.
+
+10. Governing Law
+This Agreement shall be governed by the laws of the State of Illinois.
+
+11. Miscellaneous
+This Agreement constitutes the entire understanding between the Parties. Amendments must be in writing and signed by both Parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+MediHealth, Inc. _______________________
+DataCare Solutions LLC _______________________
+July 1, 2025

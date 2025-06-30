@@ -1,0 +1,41 @@
+Parties
+FinServe Bank ("FinServe") and InsightData Analytics LLC ("InsightData") (collectively, the "Parties") enter into this Agreement as of September 1, 2025.
+
+1. Term
+This Agreement commences on September 1, 2025 and continues until August 31, 2026 unless terminated earlier as provided herein.
+
+2. Scope of Work / Services
+InsightData will provide advanced data analytics consulting and dashboard development for FinServe's banking operations.
+
+3. Payment Terms
+FinServe will pay InsightData $80,000 in two equal installments of $40,000, due at project start and upon delivery of final dashboards.
+
+4. Confidentiality
+Both Parties agree to maintain the confidentiality of all financial and customer data disclosed during the term of this Agreement and for five years thereafter.
+
+5. Intellectual Property
+All analytics models and dashboards developed under this Agreement shall be owned by FinServe.
+
+6. Warranties and Representations
+Each Party represents and warrants that it has the authority to enter into this Agreement and will comply with all applicable financial regulations.
+
+7. Limitation of Liability
+Neither Party shall be liable for indirect, incidental, or consequential damages. InsightData's total liability shall not exceed the total fees paid.
+
+8. Termination
+This Agreement may be terminated by either Party upon 45 days' written notice or for material breach not cured within 15 days.
+
+9. Dispute Resolution
+Any disputes shall be resolved by arbitration in Boston, MA.
+
+10. Governing Law
+This Agreement shall be governed by the laws of the Commonwealth of Massachusetts.
+
+11. Miscellaneous
+This Agreement constitutes the entire understanding between the Parties. Amendments must be in writing and signed by both Parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+FinServe Bank _______________________
+InsightData Analytics LLC _______________________
+September 1, 2025

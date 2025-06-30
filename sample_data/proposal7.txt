@@ -1,0 +1,47 @@
+Executive Summary
+EduSmart is launching a new online learning platform to expand its digital education offerings. Our development team will deliver a scalable, interactive platform with advanced analytics and personalized learning paths. This proposal follows a standardized template for clarity and consistency.
+
+Scope of Work
+Phase 1: Discovery & Design (Weeks 1-2)
+- Requirements gathering and stakeholder interviews
+- Platform architecture and UI/UX design
+- Deliverable: Design Specification Document
+
+Phase 2: Platform Development (Weeks 3-8)
+- Core platform and content management system development
+- Integration of video streaming and interactive modules
+- Deliverable: Beta version of learning platform
+
+Phase 3: Analytics & Personalization (Weeks 9-10)
+- Implementation of analytics dashboard
+- Development of personalized learning path algorithms
+- Deliverable: Analytics dashboard and personalization features
+
+Phase 4: Testing & Launch (Weeks 11-12)
+- User acceptance testing (UAT)
+- Bug fixes and deployment
+- Deliverable: Production-ready platform
+
+Pricing
+Our pricing is structured by phase, with fixed fees and optional support.
+
+| Service Component                | Pricing Model         | Fee (USD)   | Description                                                      |
+|----------------------------------|----------------------|-------------|------------------------------------------------------------------|
+| Phase 1: Discovery & Design      | Fixed Price          | $4,000      | 2 weeks, includes all planning and design                        |
+| Phase 2: Platform Development    | Fixed Price          | $20,000     | 6 weeks, includes development and integration                    |
+| Phase 3: Analytics & Personalization| Fixed Price        | $6,000      | 2 weeks, includes analytics and personalization                  |
+| Phase 4: Testing & Launch        | Fixed Price          | $5,000      | 2 weeks, includes UAT and deployment                             |
+| Post-launch Support (optional)   | Time & Materials     | $90/hr      | As needed, billed monthly, for ongoing maintenance               |
+| Project Management & Oversight   | Included             | -           | Throughout all phases                                            |
+| Travel & Expenses                | Reimbursable         | At cost     | All pre-approved, out-of-pocket expenses                         |
+
+Estimated Total (Phases 1-4): $35,000 (excluding optional support and expenses)
+
+Timeline
+- Total project duration: 12 weeks (3 months)
+- Key milestones at the end of each phase
+- Weekly progress updates and review meetings
+
+Industry: Education
+Service Type: Online Platform Development
+Client: EduSmart

@@ -1,0 +1,61 @@
+Parties
+Acme Corp, 123 Main St, Springfield, USA ("Party A")
+and
+FinServe Solutions, 456 Market Ave, Metropolis, USA ("Party B")
+
+Recitals
+This Contract is entered into for the purpose of developing and deploying a secure mobile banking platform for Acme Corp.
+
+1. Definitions
+"Deliverables" means all software, documentation, and materials provided by Party B.
+
+2. Term
+This Contract shall commence on July 1, 2025 and continue until October 15, 2025, unless terminated earlier in accordance with this Contract.
+
+3. Scope of Work / Services
+Party B shall:
+- Design and develop a mobile banking application
+- Integrate with Acme Corp's backend systems
+- Provide security testing and compliance documentation
+- Support user acceptance testing and deployment
+
+4. Payment Terms
+- Fees: $50,000, payable in four installments upon completion of each project phase
+- Invoicing: Party B will invoice Party A at the end of each phase
+- Late Payment: 2% monthly interest on overdue amounts
+
+5. Confidentiality
+Both parties agree to maintain the confidentiality of all proprietary information disclosed during the term of this Contract.
+
+6. Intellectual Property
+- Ownership: All deliverables shall be the property of Acme Corp upon full payment.
+- License: Party B retains the right to use generic components for other clients.
+
+7. Warranties and Representations
+Each party represents and warrants that it has the authority to enter into this Contract and will comply with all applicable laws.
+
+8. Indemnification
+Each party shall indemnify and hold harmless the other party from any claims, damages, or liabilities arising from its breach of this Contract.
+
+9. Limitation of Liability
+Neither party shall be liable for indirect, incidental, or consequential damages.
+
+10. Termination
+This Contract may be terminated by either party upon 30 days' written notice, or immediately for cause.
+
+11. Dispute Resolution
+Any disputes arising under this Contract shall be resolved by binding arbitration in Springfield, USA.
+
+12. Governing Law
+This Contract shall be governed by the laws of the State of Illinois.
+
+13. Miscellaneous
+- Entire Agreement: This Contract constitutes the entire agreement between the parties.
+- Amendments: Any amendments must be in writing and signed by both parties.
+- Notices: All notices shall be sent to the addresses listed above.
+
+IN WITNESS WHEREOF, the parties have executed this Contract as of July 1, 2025.
+
+Party A: _______________________
+Party B: _______________________
+Date: _________________________
