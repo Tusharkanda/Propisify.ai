@@ -1,0 +1,17 @@
+streamlit
+openai
+pytesseract
+pypandoc
+pypandoc_binary
+Pillow
+pdf2image
+chromadb
+pandas
+python-docx
+google-generativeai
+langchain
+langchain_openai
+langchain_chroma
+langchain_community
+langgraph>=0.0.30
+langchain-openai
